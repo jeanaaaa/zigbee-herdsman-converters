@@ -1,5 +1,18 @@
 # Changelog
 
+## [23.47.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.46.0...v23.47.0) (2025-05-19)
+
+
+### Features
+
+* **add:** 5717 ([#9364](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9364)) ([59c942e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/59c942eddc399ff1401355f929ebb7b2afaeb5b9))
+* **add:** ZC-LP01 ([#9365](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9365)) ([71a98bb](https://github.com/Koenkk/zigbee-herdsman-converters/commit/71a98bb62566bb8265de411d9389f7674d5d8de4))
+
+
+### Bug Fixes
+
+* Tuya MG-ZG01W: simplify integration ([#9363](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9363)) ([a60a23f](https://github.com/Koenkk/zigbee-herdsman-converters/commit/a60a23fc36ed62fd1b56694980e206960ef62bb3))
+
 ## [23.46.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.45.0...v23.46.0) (2025-05-18)
 
 
